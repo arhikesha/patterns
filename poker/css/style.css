@@ -1,0 +1,83 @@
+
+.player_one{
+	height:200px;
+	margin-top:150px;
+}
+.stol{
+	//background:black;
+	height:400px;
+}
+.player_two{
+	height:200px;
+	margin-top:150px;
+}
+.player_three{
+	height:200px;
+	margin-top:20px;
+}
+.image{
+	padding-left:50px;
+	padding-top:30px;
+}
+.balance{
+padding-top:30px;
+padding-left:0;
+}
+.stol{
+	padding-top:50px;
+	padding-left:200px;
+}
+.bet{
+	width:90px;
+}
+.call{
+	width:90px;
+}
+.raise{
+	width:90px;
+}
+.fold{
+	width:90px;
+}
+.check{
+	width:185px;
+}
+.fishka{
+	width:25px;
+}
+.menu1{
+	cursor:pointer;
+}
+.menu2{
+	cursor:pointer;
+}
+.menu3{
+	cursor:pointer;
+}
+#ok1{
+	display:none;
+}
+#ok2{
+	display:none;
+}
+#ok3{
+	display:none;
+}
+#bet_1{
+	margin-left:100px;
+}
+#bet_2{
+	margin-left:250px;
+}
+#bet_3{
+	margin-left:250px;
+}
+#wager_1{
+	color:green;
+}
+#wager_2{
+	color:green;
+}
+#wager_3{
+	color:green;
+}
